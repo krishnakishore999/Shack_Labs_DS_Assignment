@@ -35,4 +35,4 @@ similar products are matched, display the retail price from FK and AMZ side by s
   * Sentence transformers is a Python framework for cutting-edge sentence vector representations. Having the phrases in space allows us to calculate the distance between them, and by doing so, we can identify the ones that are most comparable in terms of their semantic meaning.
   * Used the "all-MiniLM-L6-v2" Sentence Transformer model for calculating semantic similarity between Amazon and Flipkart product names.
  * used tensorflow.nn.top_k for storing the index of a similar Flipkart product corresponding to each Amazon product
- * the final output file is attached 
+ * the final output file is attached as Product_matching_final_result
