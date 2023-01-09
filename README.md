@@ -1,4 +1,4 @@
-# Shack_Labs_DS_Assignment
+#Product Matching on Flipkart and Amazon datasets and house price prediction using diff modles
 
 This repo contains two projects given by shack labs as an assignment 
 
